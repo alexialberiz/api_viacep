@@ -1,0 +1,10 @@
+public record Endereco(String cep,
+                       String logradouro,
+                       String complemento,
+                       String bairro,
+                       String localidade,
+                       String estado) {
+
+    public void write(String json) {
+    }
+}
