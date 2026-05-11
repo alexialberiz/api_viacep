@@ -54,7 +54,3 @@ endereco.json
 ## API Utilizada
 
 [https://viacep.com.br/](https://viacep.com.br/)
-
-## Autora
-
-Alexia Alberiz
